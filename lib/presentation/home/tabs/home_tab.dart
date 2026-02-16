@@ -1,11 +1,11 @@
-import 'package:films_app/core/constants/app_const.dart';
-import 'package:films_app/core/routing/app_routes.dart';
-import 'package:films_app/core/shared/shimmer_widgets/home_tab_shimmer_widget.dart';
-import 'package:films_app/core/utils/app_colors.dart';
-import 'package:films_app/presentation/home/cubit/movies_cubit.dart';
-import 'package:films_app/presentation/home/cubit/movies_state.dart';
-import 'package:films_app/presentation/home/widgets/custom_tab_text.dart';
-import 'package:films_app/presentation/home/widgets/custom_text_field.dart';
+import 'package:movies_station_app/core/constants/app_const.dart';
+import 'package:movies_station_app/core/routing/app_routes.dart';
+import 'package:movies_station_app/core/shared/shimmer_widgets/home_tab_shimmer_widget.dart';
+import 'package:movies_station_app/core/utils/app_colors.dart';
+import 'package:movies_station_app/presentation/home/cubit/movies_cubit.dart';
+import 'package:movies_station_app/presentation/home/cubit/movies_state.dart';
+import 'package:movies_station_app/presentation/home/widgets/custom_tab_text.dart';
+import 'package:movies_station_app/presentation/home/widgets/custom_text_field.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

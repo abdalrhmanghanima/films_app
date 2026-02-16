@@ -1,4 +1,4 @@
-import 'package:films_app/domain/movie_details/entities/review_entity.dart';
+import 'package:movies_station_app/domain/movie_details/entities/review_entity.dart';
 
 class ReviewModel {
   final String id;

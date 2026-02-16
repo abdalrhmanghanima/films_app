@@ -1,12 +1,12 @@
-import 'package:films_app/core/di/di.dart';
-import 'package:films_app/core/routing/app_routes.dart';
-import 'package:films_app/domain/movies/entities/movie_entity.dart';
-import 'package:films_app/presentation/home/cubit/movies_cubit.dart';
-import 'package:films_app/presentation/home/cubit/watch_list_cubit.dart';
+import 'package:movies_station_app/core/di/di.dart';
+import 'package:movies_station_app/core/routing/app_routes.dart';
+import 'package:movies_station_app/domain/movies/entities/movie_entity.dart';
+import 'package:movies_station_app/presentation/home/cubit/movies_cubit.dart';
+import 'package:movies_station_app/presentation/home/cubit/watch_list_cubit.dart';
 
-import 'package:films_app/presentation/home/screens/home_screen.dart';
-import 'package:films_app/presentation/home/screens/splash_screen.dart';
-import 'package:films_app/presentation/movie_details/screens/movie_details_screen.dart';
+import 'package:movies_station_app/presentation/home/screens/home_screen.dart';
+import 'package:movies_station_app/presentation/home/screens/splash_screen.dart';
+import 'package:movies_station_app/presentation/movie_details/screens/movie_details_screen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

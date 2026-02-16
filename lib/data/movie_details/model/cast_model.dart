@@ -1,4 +1,4 @@
-import 'package:films_app/domain/movie_details/entities/cast_entity.dart';
+import 'package:movies_station_app/domain/movie_details/entities/cast_entity.dart';
 
 class CastModel {
   CastModel({this.id, this.cast, this.crew});

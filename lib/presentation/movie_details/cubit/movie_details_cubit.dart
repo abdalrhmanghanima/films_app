@@ -1,8 +1,8 @@
-import 'package:films_app/domain/movie_details/use_cases/get_movie_cast_use_case.dart';
-import 'package:films_app/domain/movie_details/use_cases/get_movie_details_use_case.dart';
-import 'package:films_app/presentation/movie_details/cubit/movie_details_state.dart';
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_cast_use_case.dart';
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_details_use_case.dart';
+import 'package:movies_station_app/presentation/movie_details/cubit/movie_details_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:films_app/domain/movie_details/use_cases/get_movie_reviews_use_case.dart';
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_reviews_use_case.dart';
 import 'package:injectable/injectable.dart';
 
 @injectable

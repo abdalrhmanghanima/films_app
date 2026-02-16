@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shimmer/shimmer.dart';
-import 'package:films_app/core/utils/app_colors.dart';
+import 'package:movies_station_app/core/utils/app_colors.dart';
 
 class SearchShimmer extends StatelessWidget {
   const SearchShimmer({super.key});

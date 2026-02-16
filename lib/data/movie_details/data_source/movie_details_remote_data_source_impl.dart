@@ -1,8 +1,8 @@
-import 'package:films_app/core/network/api_service.dart';
-import 'package:films_app/data/movie_details/data_source/movie_details_remote_data_source.dart';
-import 'package:films_app/data/movie_details/model/cast_model.dart';
-import 'package:films_app/data/movie_details/model/movie_details_model.dart';
-import 'package:films_app/data/movie_details/model/review_model.dart';
+import 'package:movies_station_app/core/network/api_service.dart';
+import 'package:movies_station_app/data/movie_details/data_source/movie_details_remote_data_source.dart';
+import 'package:movies_station_app/data/movie_details/model/cast_model.dart';
+import 'package:movies_station_app/data/movie_details/model/movie_details_model.dart';
+import 'package:movies_station_app/data/movie_details/model/review_model.dart';
 import 'package:injectable/injectable.dart';
 
 @LazySingleton(as: MovieDetailsRemoteDataSource)

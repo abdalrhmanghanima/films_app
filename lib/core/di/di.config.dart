@@ -9,46 +9,46 @@
 // coverage:ignore-file
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:films_app/core/di/register_module.dart' as _i833;
-import 'package:films_app/core/network/api_service.dart' as _i267;
-import 'package:films_app/core/network/dio_client.dart' as _i972;
-import 'package:films_app/data/movie_details/data_source/movie_details_remote_data_source.dart'
+import 'package:movies_station_app/core/di/register_module.dart' as _i833;
+import 'package:movies_station_app/core/network/api_service.dart' as _i267;
+import 'package:movies_station_app/core/network/dio_client.dart' as _i972;
+import 'package:movies_station_app/data/movie_details/data_source/movie_details_remote_data_source.dart'
     as _i1021;
-import 'package:films_app/data/movie_details/data_source/movie_details_remote_data_source_impl.dart'
+import 'package:movies_station_app/data/movie_details/data_source/movie_details_remote_data_source_impl.dart'
     as _i288;
-import 'package:films_app/data/movie_details/repositories/movie_details_repo_impl.dart'
+import 'package:movies_station_app/data/movie_details/repositories/movie_details_repo_impl.dart'
     as _i587;
-import 'package:films_app/data/movies/data_source/movie_remote_data_source.dart'
+import 'package:movies_station_app/data/movies/data_source/movie_remote_data_source.dart'
     as _i334;
-import 'package:films_app/data/movies/data_source/movie_remote_data_source_impl.dart'
+import 'package:movies_station_app/data/movies/data_source/movie_remote_data_source_impl.dart'
     as _i258;
-import 'package:films_app/data/movies/repositories/movies_repo_impl.dart'
+import 'package:movies_station_app/data/movies/repositories/movies_repo_impl.dart'
     as _i832;
-import 'package:films_app/domain/movie_details/repositories/movie_details_repo.dart'
+import 'package:movies_station_app/domain/movie_details/repositories/movie_details_repo.dart'
     as _i990;
-import 'package:films_app/domain/movie_details/use_cases/get_movie_cast_use_case.dart'
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_cast_use_case.dart'
     as _i416;
-import 'package:films_app/domain/movie_details/use_cases/get_movie_details_use_case.dart'
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_details_use_case.dart'
     as _i1035;
-import 'package:films_app/domain/movie_details/use_cases/get_movie_reviews_use_case.dart'
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_reviews_use_case.dart'
     as _i346;
-import 'package:films_app/domain/movies/repositories/movies_repo.dart'
+import 'package:movies_station_app/domain/movies/repositories/movies_repo.dart'
     as _i1039;
-import 'package:films_app/domain/movies/use_cases/get_now_playing_movies_use_case.dart'
+import 'package:movies_station_app/domain/movies/use_cases/get_now_playing_movies_use_case.dart'
     as _i616;
-import 'package:films_app/domain/movies/use_cases/get_popular_movies_use_case.dart'
+import 'package:movies_station_app/domain/movies/use_cases/get_popular_movies_use_case.dart'
     as _i810;
-import 'package:films_app/domain/movies/use_cases/get_top_rated_movies_use_case.dart'
+import 'package:movies_station_app/domain/movies/use_cases/get_top_rated_movies_use_case.dart'
     as _i321;
-import 'package:films_app/domain/movies/use_cases/get_upcoming_movies_use_case.dart'
+import 'package:movies_station_app/domain/movies/use_cases/get_upcoming_movies_use_case.dart'
     as _i152;
-import 'package:films_app/domain/movies/use_cases/search_movies_use_case.dart'
+import 'package:movies_station_app/domain/movies/use_cases/search_movies_use_case.dart'
     as _i731;
-import 'package:films_app/presentation/home/cubit/movies_cubit.dart' as _i564;
-import 'package:films_app/presentation/home/cubit/search_cubit.dart' as _i730;
-import 'package:films_app/presentation/home/cubit/watch_list_cubit.dart'
+import 'package:movies_station_app/presentation/home/cubit/movies_cubit.dart' as _i564;
+import 'package:movies_station_app/presentation/home/cubit/search_cubit.dart' as _i730;
+import 'package:movies_station_app/presentation/home/cubit/watch_list_cubit.dart'
     as _i592;
-import 'package:films_app/presentation/movie_details/cubit/movie_details_cubit.dart'
+import 'package:movies_station_app/presentation/movie_details/cubit/movie_details_cubit.dart'
     as _i862;
 import 'package:get_it/get_it.dart' as _i174;
 import 'package:injectable/injectable.dart' as _i526;

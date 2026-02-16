@@ -172,8 +172,8 @@ lib/
 Clone the repository:
 
 ```bash
-git clone https://github.com/abdalrhmanghanima/films_app.git
-cd films_app
+git clone https://github.com/abdalrhmanghanima/movies_station_app.git
+cd movies_station_app
 ```
 
 Install dependencies:

@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:films_app/domain/movies/entities/movie_entity.dart';
-import 'package:films_app/domain/movie_details/use_cases/get_movie_details_use_case.dart';
+import 'package:movies_station_app/domain/movies/entities/movie_entity.dart';
+import 'package:movies_station_app/domain/movie_details/use_cases/get_movie_details_use_case.dart';
 import 'package:injectable/injectable.dart';
 
 @lazySingleton

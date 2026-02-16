@@ -1,4 +1,4 @@
-import 'package:films_app/data/movies/model/movie_model.dart';
+import 'package:movies_station_app/data/movies/model/movie_model.dart';
 
 class MovieResponseModel {
   final int page;

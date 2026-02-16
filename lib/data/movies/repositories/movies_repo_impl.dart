@@ -1,9 +1,9 @@
-import 'package:films_app/core/errors/api_error.dart';
-import 'package:films_app/core/errors/failure.dart';
-import 'package:films_app/data/movies/data_source/movie_remote_data_source.dart';
-import 'package:films_app/data/movies/model/movie_model.dart';
-import 'package:films_app/domain/movies/entities/movie_entity.dart';
-import 'package:films_app/domain/movies/repositories/movies_repo.dart';
+import 'package:movies_station_app/core/errors/api_error.dart';
+import 'package:movies_station_app/core/errors/failure.dart';
+import 'package:movies_station_app/data/movies/data_source/movie_remote_data_source.dart';
+import 'package:movies_station_app/data/movies/model/movie_model.dart';
+import 'package:movies_station_app/domain/movies/entities/movie_entity.dart';
+import 'package:movies_station_app/domain/movies/repositories/movies_repo.dart';
 import 'package:injectable/injectable.dart';
 
 @LazySingleton(as: MoviesRepo)

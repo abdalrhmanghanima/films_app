@@ -1,5 +1,5 @@
-import 'package:films_app/presentation/movie_details/tabs/cast_tab.dart';
-import 'package:films_app/presentation/movie_details/tabs/reviews_tab.dart';
+import 'package:movies_station_app/presentation/movie_details/tabs/cast_tab.dart';
+import 'package:movies_station_app/presentation/movie_details/tabs/reviews_tab.dart';
 import 'package:flutter/material.dart';
 import '../tabs/about_movie_tab.dart';
 

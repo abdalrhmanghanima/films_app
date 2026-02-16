@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:injectable/injectable.dart';
-import 'package:films_app/domain/movies/use_cases/search_movies_use_case.dart';
+import 'package:movies_station_app/domain/movies/use_cases/search_movies_use_case.dart';
 import 'search_state.dart';
 
 @injectable

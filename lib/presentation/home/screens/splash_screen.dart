@@ -1,6 +1,6 @@
-import 'package:films_app/core/routing/app_routes.dart';
-import 'package:films_app/core/utils/app_colors.dart';
-import 'package:films_app/core/utils/app_images.dart';
+import 'package:movies_station_app/core/routing/app_routes.dart';
+import 'package:movies_station_app/core/utils/app_colors.dart';
+import 'package:movies_station_app/core/utils/app_images.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:films_app/core/constants/app_const.dart';
-import 'package:films_app/core/utils/app_colors.dart';
-import 'package:films_app/domain/movie_details/entities/review_entity.dart';
+import 'package:movies_station_app/core/constants/app_const.dart';
+import 'package:movies_station_app/core/utils/app_colors.dart';
+import 'package:movies_station_app/domain/movie_details/entities/review_entity.dart';
 import 'package:flutter/material.dart';
 
 class ReviewItem extends StatelessWidget {

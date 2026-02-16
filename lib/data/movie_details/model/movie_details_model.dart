@@ -1,4 +1,4 @@
-import 'package:films_app/domain/movie_details/entities/movie_details_entity.dart';
+import 'package:movies_station_app/domain/movie_details/entities/movie_details_entity.dart';
 
 class MovieDetailsModel {
   final int id;

@@ -1,6 +1,6 @@
-import 'package:films_app/presentation/movie_details/cubit/movie_details_cubit.dart';
-import 'package:films_app/presentation/movie_details/cubit/movie_details_state.dart';
-import 'package:films_app/presentation/movie_details/widgets/reviews_tab_content.dart';
+import 'package:movies_station_app/presentation/movie_details/cubit/movie_details_cubit.dart';
+import 'package:movies_station_app/presentation/movie_details/cubit/movie_details_state.dart';
+import 'package:movies_station_app/presentation/movie_details/widgets/reviews_tab_content.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

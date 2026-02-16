@@ -1,4 +1,4 @@
-import 'package:films_app/core/utils/app_colors.dart';
+import 'package:movies_station_app/core/utils/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class CustomTabText extends StatelessWidget {

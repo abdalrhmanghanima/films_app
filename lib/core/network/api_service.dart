@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:films_app/core/network/dio_client.dart';
-import 'package:films_app/core/errors/api_error.dart';
+import 'package:movies_station_app/core/network/dio_client.dart';
+import 'package:movies_station_app/core/errors/api_error.dart';
 import 'package:injectable/injectable.dart';
 
 @lazySingleton

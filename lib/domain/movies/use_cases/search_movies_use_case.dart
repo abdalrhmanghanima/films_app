@@ -1,5 +1,5 @@
-import 'package:films_app/domain/movies/entities/movie_entity.dart';
-import 'package:films_app/domain/movies/repositories/movies_repo.dart';
+import 'package:movies_station_app/domain/movies/entities/movie_entity.dart';
+import 'package:movies_station_app/domain/movies/repositories/movies_repo.dart';
 import 'package:injectable/injectable.dart';
 
 @injectable

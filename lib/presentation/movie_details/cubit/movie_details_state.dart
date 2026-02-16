@@ -1,6 +1,6 @@
-import 'package:films_app/domain/movie_details/entities/movie_details_entity.dart';
-import 'package:films_app/domain/movie_details/entities/review_entity.dart';
-import 'package:films_app/domain/movie_details/entities/cast_entity.dart';
+import 'package:movies_station_app/domain/movie_details/entities/movie_details_entity.dart';
+import 'package:movies_station_app/domain/movie_details/entities/review_entity.dart';
+import 'package:movies_station_app/domain/movie_details/entities/cast_entity.dart';
 
 abstract class MovieDetailsState {}
 
